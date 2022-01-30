@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto:wght@500&display=swap');
+
+.fazer--login{
+    border: none;
+    width: 100%;
+    height: 50px;
+    background: white;
+}
+
+.texto--fazer--login{
+float: right;
+margin-right: 20px;
+margin-top: 15px;
+
+}
+
+.pesquisa {
+    margin-top: -1px;
+}
